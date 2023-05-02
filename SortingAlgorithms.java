@@ -1,6 +1,4 @@
-/**
- * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
+
 
 public class SortingAlgorithms<E> {
 	public void bubbleSort(E[] arr, int length) {
